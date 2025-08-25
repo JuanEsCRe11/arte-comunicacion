@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Arte y comunicación",
+    "description": "",
+    "home_page_url": "https://JuanEsCRe11.github.io/arte-comunicacion",
+    "feed_url": "https://JuanEsCRe11.github.io/arte-comunicacion/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Juan Esteban"
+    },
+    "items": [
+        {
+            "id": "https://JuanEsCRe11.github.io/arte-comunicacion/composicion-visual-2.html",
+            "url": "https://JuanEsCRe11.github.io/arte-comunicacion/composicion-visual-2.html",
+            "title": "Composición visual",
+            "author": {
+                "name": "Juan Esteban"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-24T22:30:54-05:00",
+            "date_modified": "2025-08-24T22:30:54-05:00"
+        }
+    ]
+}

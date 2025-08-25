@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://JuanEsCRe11.github.io/arte-comunicacion/sitemap.xml

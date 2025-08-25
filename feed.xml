@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Arte y comunicación</title>
+    <link href="https://JuanEsCRe11.github.io/arte-comunicacion/feed.xml" rel="self" />
+    <link href="https://JuanEsCRe11.github.io/arte-comunicacion" />
+    <updated>2025-08-24T22:30:54-05:00</updated>
+    <author>
+        <name>Juan Esteban</name>
+    </author>
+    <id>https://JuanEsCRe11.github.io/arte-comunicacion</id>
+
+    <entry>
+        <title>Composición visual</title>
+        <author>
+            <name>Juan Esteban</name>
+        </author>
+        <link href="https://JuanEsCRe11.github.io/arte-comunicacion/composicion-visual-2.html"/>
+        <id>https://JuanEsCRe11.github.io/arte-comunicacion/composicion-visual-2.html</id>
+
+        <updated>2025-08-24T22:30:54-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
