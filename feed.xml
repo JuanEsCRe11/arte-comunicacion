@@ -3,7 +3,7 @@
     <title>Arte y comunicación</title>
     <link href="https://JuanEsCRe11.github.io/arte-comunicacion/feed.xml" rel="self" />
     <link href="https://JuanEsCRe11.github.io/arte-comunicacion" />
-    <updated>2025-08-24T22:30:54-05:00</updated>
+    <updated>2025-09-05T14:27:45-05:00</updated>
     <author>
         <name>Juan Esteban</name>
     </author>
@@ -18,7 +18,17 @@
         <id>https://JuanEsCRe11.github.io/arte-comunicacion/composicion-visual-2.html</id>
 
         <updated>2025-08-24T22:30:54-05:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                    En este ejercicio decidí crear una composición de paisaje en inkscape basandome en un fragmento de mi serie favorita.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>En este ejercicio decidí crear una composición de paisaje en inkscape basandome en un fragmento de mi serie favorita.</p>
+<figure class="post__image"><img loading="lazy"  src="https://JuanEsCRe11.github.io/arte-comunicacion/media/posts/3/composicion-inkscape.png" alt="" width="1080" height="1080" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://JuanEsCRe11.github.io/arte-comunicacion/media/posts/3/responsive/composicion-inkscape-xs.png 384w ,https://JuanEsCRe11.github.io/arte-comunicacion/media/posts/3/responsive/composicion-inkscape-sm.png 600w ,https://JuanEsCRe11.github.io/arte-comunicacion/media/posts/3/responsive/composicion-inkscape-md.png 768w ,https://JuanEsCRe11.github.io/arte-comunicacion/media/posts/3/responsive/composicion-inkscape-lg.png 1200w ,https://JuanEsCRe11.github.io/arte-comunicacion/media/posts/3/responsive/composicion-inkscape-xl.png 1600w"></figure>
+<p> </p>
+            ]]>
+        </content>
     </entry>
 </feed>

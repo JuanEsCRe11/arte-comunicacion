@@ -13,13 +13,15 @@
             "id": "https://JuanEsCRe11.github.io/arte-comunicacion/composicion-visual-2.html",
             "url": "https://JuanEsCRe11.github.io/arte-comunicacion/composicion-visual-2.html",
             "title": "Composición visual",
+            "summary": "En este ejercicio decidí crear una composición de paisaje en inkscape basandome en un fragmento de mi serie favorita.",
+            "content_html": "<p>En este ejercicio decidí crear una composición de paisaje en inkscape basandome en un fragmento de mi serie favorita.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://JuanEsCRe11.github.io/arte-comunicacion/media/posts/3/composicion-inkscape.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://JuanEsCRe11.github.io/arte-comunicacion/media/posts/3/responsive/composicion-inkscape-xs.png 384w ,https://JuanEsCRe11.github.io/arte-comunicacion/media/posts/3/responsive/composicion-inkscape-sm.png 600w ,https://JuanEsCRe11.github.io/arte-comunicacion/media/posts/3/responsive/composicion-inkscape-md.png 768w ,https://JuanEsCRe11.github.io/arte-comunicacion/media/posts/3/responsive/composicion-inkscape-lg.png 1200w ,https://JuanEsCRe11.github.io/arte-comunicacion/media/posts/3/responsive/composicion-inkscape-xl.png 1600w\"></figure>\n<p> </p>",
             "author": {
                 "name": "Juan Esteban"
             },
             "tags": [
             ],
             "date_published": "2025-08-24T22:30:54-05:00",
-            "date_modified": "2025-08-24T22:30:54-05:00"
+            "date_modified": "2025-09-05T14:27:45-05:00"
         }
     ]
 }
