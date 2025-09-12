@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://JuanEsCRe11.github.io/arte-comunicacion/webcomic-instagrameable.html",
+            "url": "https://JuanEsCRe11.github.io/arte-comunicacion/webcomic-instagrameable.html",
+            "title": "Webcomic instagrameable",
+            "summary": "Para este trabajo hicimos un webcomic instagrameable. La intención era que tuviera comedia, con un punch-line al final, usando un&hellip;",
+            "content_html": "<p>Para este trabajo hicimos un webcomic instagrameable.</p>\n<p>La intención era que tuviera comedia, con un punch-line al final, usando un ejemplo del artista <span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">Jean-Michel Basquiat.</span></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://JuanEsCRe11.github.io/arte-comunicacion/media/posts/4/webcomic3.jpg\" alt=\"\" width=\"2048\" height=\"2048\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://JuanEsCRe11.github.io/arte-comunicacion/media/posts/4/responsive/webcomic3-xs.jpg 384w ,https://JuanEsCRe11.github.io/arte-comunicacion/media/posts/4/responsive/webcomic3-sm.jpg 600w ,https://JuanEsCRe11.github.io/arte-comunicacion/media/posts/4/responsive/webcomic3-md.jpg 768w ,https://JuanEsCRe11.github.io/arte-comunicacion/media/posts/4/responsive/webcomic3-lg.jpg 1200w ,https://JuanEsCRe11.github.io/arte-comunicacion/media/posts/4/responsive/webcomic3-xl.jpg 1600w\"></figure>\n<div class=\"nwVKo\">\n<div class=\"loJjTe\"> </div>\n</div>",
+            "author": {
+                "name": "Juan Esteban"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-12T18:43:07-05:00",
+            "date_modified": "2025-09-12T18:43:07-05:00"
+        },
+        {
             "id": "https://JuanEsCRe11.github.io/arte-comunicacion/composicion-visual-2.html",
             "url": "https://JuanEsCRe11.github.io/arte-comunicacion/composicion-visual-2.html",
             "title": "Composición visual",
@@ -21,7 +35,7 @@
             "tags": [
             ],
             "date_published": "2025-08-24T22:30:54-05:00",
-            "date_modified": "2025-09-05T14:27:45-05:00"
+            "date_modified": "2025-09-05T14:28:34-05:00"
         }
     ]
 }

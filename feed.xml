@@ -3,12 +3,37 @@
     <title>Arte y comunicación</title>
     <link href="https://JuanEsCRe11.github.io/arte-comunicacion/feed.xml" rel="self" />
     <link href="https://JuanEsCRe11.github.io/arte-comunicacion" />
-    <updated>2025-09-05T14:27:45-05:00</updated>
+    <updated>2025-09-12T18:43:07-05:00</updated>
     <author>
         <name>Juan Esteban</name>
     </author>
     <id>https://JuanEsCRe11.github.io/arte-comunicacion</id>
 
+    <entry>
+        <title>Webcomic instagrameable</title>
+        <author>
+            <name>Juan Esteban</name>
+        </author>
+        <link href="https://JuanEsCRe11.github.io/arte-comunicacion/webcomic-instagrameable.html"/>
+        <id>https://JuanEsCRe11.github.io/arte-comunicacion/webcomic-instagrameable.html</id>
+
+        <updated>2025-09-12T18:43:07-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Para este trabajo hicimos un webcomic instagrameable. La intención era que tuviera comedia, con un punch-line al final, usando un&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Para este trabajo hicimos un webcomic instagrameable.</p>
+<p>La intención era que tuviera comedia, con un punch-line al final, usando un ejemplo del artista <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Jean-Michel Basquiat.</span></p>
+<figure class="post__image"><img loading="lazy"  src="https://JuanEsCRe11.github.io/arte-comunicacion/media/posts/4/webcomic3.jpg" alt="" width="2048" height="2048" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://JuanEsCRe11.github.io/arte-comunicacion/media/posts/4/responsive/webcomic3-xs.jpg 384w ,https://JuanEsCRe11.github.io/arte-comunicacion/media/posts/4/responsive/webcomic3-sm.jpg 600w ,https://JuanEsCRe11.github.io/arte-comunicacion/media/posts/4/responsive/webcomic3-md.jpg 768w ,https://JuanEsCRe11.github.io/arte-comunicacion/media/posts/4/responsive/webcomic3-lg.jpg 1200w ,https://JuanEsCRe11.github.io/arte-comunicacion/media/posts/4/responsive/webcomic3-xl.jpg 1600w"></figure>
+<div class="nwVKo">
+<div class="loJjTe"> </div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Composición visual</title>
         <author>
