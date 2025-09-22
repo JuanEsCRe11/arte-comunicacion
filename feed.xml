@@ -3,7 +3,7 @@
     <title>Arte y comunicación</title>
     <link href="https://JuanEsCRe11.github.io/arte-comunicacion/feed.xml" rel="self" />
     <link href="https://JuanEsCRe11.github.io/arte-comunicacion" />
-    <updated>2025-09-22T17:21:03-05:00</updated>
+    <updated>2025-09-22T17:21:40-05:00</updated>
     <author>
         <name>Juan Esteban</name>
     </author>
@@ -26,7 +26,8 @@
         <content type="html">
             <![CDATA[
                 <p>En esta ocasión realicé una composición sonora basada en mi anime favorito. Escogí una escena y 2 canciones de la obra, las combiné, les añadí efectos, repetí partes, las puse en reversa y le añadí algunos dialogos y efectos de sonido que son parte del anime.</p>
-<p>Link para escuchar el audio: <a href="https://drive.google.com/file/d/19Xua6BrrX7Vr0ZmNk8xJBnFai-B_O389/view?usp=sharing">https://drive.google.com/file/d/19Xua6BrrX7Vr0ZmNk8xJBnFai-B_O389/view?usp=drive_link</a></p>
+<p><audio loading="lazy" controls="controls">
+  <source src="https://drive.google.com/file/d/19Xua6BrrX7Vr0ZmNk8xJBnFai-B_O389/view?usp=sharing" type="audio/mpeg" /></audio></p>
             ]]>
         </content>
     </entry>
