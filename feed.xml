@@ -3,7 +3,7 @@
     <title>Arte y comunicación</title>
     <link href="https://JuanEsCRe11.github.io/arte-comunicacion/feed.xml" rel="self" />
     <link href="https://JuanEsCRe11.github.io/arte-comunicacion" />
-    <updated>2025-09-22T16:53:58-05:00</updated>
+    <updated>2025-09-22T16:56:50-05:00</updated>
     <author>
         <name>Juan Esteban</name>
     </author>
@@ -14,10 +14,10 @@
         <author>
             <name>Juan Esteban</name>
         </author>
-        <link href="https://JuanEsCRe11.github.io/arte-comunicacion/composicion-sonora-2.html"/>
-        <id>https://JuanEsCRe11.github.io/arte-comunicacion/composicion-sonora-2.html</id>
+        <link href="https://JuanEsCRe11.github.io/arte-comunicacion/composicion-sonora-3.html"/>
+        <id>https://JuanEsCRe11.github.io/arte-comunicacion/composicion-sonora-3.html</id>
 
-        <updated>2025-09-22T16:52:30-05:00</updated>
+        <updated>2025-09-22T16:56:50-05:00</updated>
             <summary>
                 <![CDATA[
                     En esta ocasión realicé una composición sonora basada en mi anime favorito. Escogí una escena y 2 canciones de la&hellip;
@@ -27,7 +27,7 @@
             <![CDATA[
                 <p>En esta ocasión realicé una composición sonora basada en mi anime favorito. Escogí una escena y 2 canciones de la obra, las combiné, les añadí efectos, repetí partes, las puse en reversa y le añadí algunos dialogos y efectos de sonido que son parte del anime.</p>
 <p><audio loading="lazy" controls="controls">
-  <source src="https://JuanEsCRe11.github.io/arte-comunicacion/media/posts/7/Composicion-sonora.mp3" type="audio/mpeg" /></audio></p>
+  <source src="file:///C:/Users/Usuario/Documents/Publii/sites/arte-y-comunicacion/input/media/posts/7/Composicion-sonora.mp3" type="audio/mpeg" /></audio></p>
             ]]>
         </content>
     </entry>
