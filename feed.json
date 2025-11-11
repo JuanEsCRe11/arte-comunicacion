@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://JuanEsCRe11.github.io/arte-comunicacion/composicion-video.html",
+            "url": "https://JuanEsCRe11.github.io/arte-comunicacion/composicion-video.html",
+            "title": "Composición Video",
+            "summary": "En esta ocasión decidí hacer una composición donde juntaba varios videos tomados por mi. Experimenté con filtros, edición, transiciones, audio,&hellip;",
+            "content_html": "<p>En esta ocasión decidí hacer una composición donde juntaba varios videos tomados por mi. Experimenté con filtros, edición, transiciones, audio, etc. El concepto de mi composición es: La vida, la creación y lo inanimado.</p>\n<p>Adjunto link del video: <br>https://youtu.be/tP4-ynZ0fU4</p>",
+            "author": {
+                "name": "Juan Esteban"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-10T23:47:45-05:00",
+            "date_modified": "2025-11-10T23:47:45-05:00"
+        },
+        {
             "id": "https://JuanEsCRe11.github.io/arte-comunicacion/composicion-sonora-4.html",
             "url": "https://JuanEsCRe11.github.io/arte-comunicacion/composicion-sonora-4.html",
             "title": "Composición sonora",

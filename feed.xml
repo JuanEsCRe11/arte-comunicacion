@@ -3,12 +3,33 @@
     <title>Arte y comunicación</title>
     <link href="https://JuanEsCRe11.github.io/arte-comunicacion/feed.xml" rel="self" />
     <link href="https://JuanEsCRe11.github.io/arte-comunicacion" />
-    <updated>2025-09-22T17:29:06-05:00</updated>
+    <updated>2025-11-10T23:47:45-05:00</updated>
     <author>
         <name>Juan Esteban</name>
     </author>
     <id>https://JuanEsCRe11.github.io/arte-comunicacion</id>
 
+    <entry>
+        <title>Composición Video</title>
+        <author>
+            <name>Juan Esteban</name>
+        </author>
+        <link href="https://JuanEsCRe11.github.io/arte-comunicacion/composicion-video.html"/>
+        <id>https://JuanEsCRe11.github.io/arte-comunicacion/composicion-video.html</id>
+
+        <updated>2025-11-10T23:47:45-05:00</updated>
+            <summary>
+                <![CDATA[
+                    En esta ocasión decidí hacer una composición donde juntaba varios videos tomados por mi. Experimenté con filtros, edición, transiciones, audio,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>En esta ocasión decidí hacer una composición donde juntaba varios videos tomados por mi. Experimenté con filtros, edición, transiciones, audio, etc. El concepto de mi composición es: La vida, la creación y lo inanimado.</p>
+<p>Adjunto link del video: <br>https://youtu.be/tP4-ynZ0fU4</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Composición sonora</title>
         <author>
